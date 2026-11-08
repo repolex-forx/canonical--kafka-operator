@@ -45,13 +45,19 @@
     },
     {
       "@type": "repolex:GraphFile",
+      "repolex:graphType": "repolex",
+      "repolex:graphFilePath": "aggregate/repolex/6f1d8af2642834150509d9cf88998936a82b9d4c/chunk-001.nq.gz",
+      "repolex:graphFileSize": 16023356
+    },
+    {
+      "@type": "repolex:GraphFile",
       "repolex:graphType": "ast",
       "repolex:graphFilePath": "aggregate/ast/6f1d8af2642834150509d9cf88998936a82b9d4c/chunk-001.nq.gz",
       "repolex:graphFileSize": 80680545
     }
   ],
-  "repolex:parseStatus": "ast_complete",
-  "repolex:parsedAt": "2026-11-08T19:18:48.183756+00:00",
+  "repolex:parseStatus": "parsed",
+  "repolex:parsedAt": "2026-11-08T19:30:22.629848+00:00",
   "repolex:parserVersion": "0.1.10",
   "git:tagName": "kafka-connect-k8s/rev31"
 }
