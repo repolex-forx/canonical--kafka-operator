@@ -1,0 +1,11 @@
+{
+  "org": "canonical",
+  "repo": "kafka-operator",
+  "versions": [
+    {
+      "commit": "6f1d8af2642834150509d9cf88998936a82b9d4c",
+      "tag": "kafka-connect-k8s/rev31",
+      "parsed_at": "2026-11-08T19:30:22.629848+00:00"
+    }
+  ]
+}
